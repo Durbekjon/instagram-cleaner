@@ -1,0 +1,17 @@
+{
+  "name": "instagram-cleaner",
+  "version": "1.0.0",
+  "description": "Instagram automation tools using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node services/puppeteerExample.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "puppeteer": "^21.10.0"
+  }
+}
